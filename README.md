@@ -1,4 +1,4 @@
-# Mussel Beds — Phase-Plane Demonstration Script
+# Fitness-Population `fx` Phase-Plane Demonstration Script
 
 ## Overview
 This repository contains a self-contained R script (`script_.R`) that demonstrates
